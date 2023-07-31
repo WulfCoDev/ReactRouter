@@ -3,6 +3,9 @@ import './App.css'
 import Red from './components/Red'
 import Blue from './components/Blue'
 import Home from './components/Home'
+import Orange from './components/Orange'
+import Yellow from './components/Yellow'
+import Green from './components/Green'
 
 function App() {
   
