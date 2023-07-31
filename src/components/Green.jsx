@@ -1,6 +1,6 @@
 const Green = () =>{
     return (
-        <div className="Green">
+        <div className="green">
             <h1>Green</h1>
         </div>
     )
