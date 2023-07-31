@@ -49,3 +49,18 @@ body > div {
 .home {
   background-color: pink;
 }
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+  color: white;
+}
+
+.orange {
+  background-color: orange;
+  color: white;
+}
